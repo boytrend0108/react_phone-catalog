@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.ae295584.css",
-    "main.js": "./static/js/main.846b2d7a.js",
+    "main.css": "./static/css/main.1c77e32a.css",
+    "main.js": "./static/js/main.e359e796.js",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/home.svg": "./static/media/home.e110292ae2cf67d0baca.svg",
+    "static/media/close.svg": "./static/media/close.3ea864f59fecb8596c4b.svg",
+    "static/media/plus.svg": "./static/media/plus.dea157243cc9d361ac05.svg",
+    "static/media/chevron-left.svg": "./static/media/chevron-left.960106b239d993f02b1f.svg",
     "static/media/chevron-up.svg": "./static/media/chevron-up.a61ad2d0ea45d7c0fbc3.svg",
+    "static/media/chevron-down.svg": "./static/media/chevron-down.98c9dd6d98b47f2f1977.svg",
+    "static/media/chevron-right.svg": "./static/media/chevron-right.f3e02e6274d17255a455.svg",
+    "static/media/burger-menu.svg": "./static/media/burger-menu.a224a05043d6c8ae50be.svg",
+    "static/media/burger-menu-hover.svg": "./static/media/burger-menu-hover.d39d97d61f00f972e34e.svg",
+    "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
     "index.html": "./index.html",
-    "main.ae295584.css.map": "./static/css/main.ae295584.css.map",
-    "main.846b2d7a.js.map": "./static/js/main.846b2d7a.js.map"
+    "main.1c77e32a.css.map": "./static/css/main.1c77e32a.css.map",
+    "main.e359e796.js.map": "./static/js/main.e359e796.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae295584.css",
-    "static/js/main.846b2d7a.js"
+    "static/css/main.1c77e32a.css",
+    "static/js/main.e359e796.js"
   ]
 }
