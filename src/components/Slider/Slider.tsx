@@ -106,16 +106,15 @@ export const Slider = () => {
               <div
                 key={Math.random()}
                 className="slider__banner-wr"
+                style={{
+                  width: `${imgWidth}px`,
+                  background: `url(img/banner/${banner})`,
+                }}
               >
-                <img
-                  style={{
-                    width: `${imgWidth}px`,
-                    display: 'block !important',
-                  }}
-                  src={`img/banner/${banner}`}
+                {/* <img
                   alt="phones"
                   className="slider__banner"
-                />
+                /> */}
               </div>
             ))}
           </div>
